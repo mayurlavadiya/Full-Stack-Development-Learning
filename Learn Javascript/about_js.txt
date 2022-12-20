@@ -1,0 +1,14 @@
+->JS work Top to Bottom
+
+-> JS only tells you that is variable not type of variable
+
+
+* learn in terminal
+     - node intro.JS
+     - clear for clear terminal records
+
+-> JS Contains : Java, c, c++, 
+
+// Types of Variables : Non Primitive ->  Function, Array, Objects
+
+// Types of Variables : Primitive -> number, string, boolean, null;
