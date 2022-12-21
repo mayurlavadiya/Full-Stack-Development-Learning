@@ -27,9 +27,20 @@ let obj={
     // obj.sayHi(); // function call
 
 // SET/UPDATE DATA
-    console.log("Data Changes of",obj);
-    obj.age=25;
-    obj.name="Meet";
-    obj.friend = ["Savan","Krupali"];
-    console.log('*************');
-    console.log("Data Changes of",obj);
+    // console.log("Data Changes of",obj);
+    // obj.age=25;
+    // obj.name="Meet";
+    // obj.friend = ["Savan","Krupali"];
+    // console.log('*************');
+    // console.log("Data Changes of",obj);
+
+// DELETE DATA
+    // delete obj.name
+
+// FOR IN LOOP
+    // for(let key in obj){
+    //     console.log(key," : ", obj[key]);
+    // }
+
+// console.log(obj[age]);  ---- > square bracket ma variablne hse ene replace kri nepachi value search kare
+// console.log(obj.age); -----> aa direct value search kre
