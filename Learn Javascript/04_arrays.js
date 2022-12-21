@@ -22,9 +22,20 @@
     // array.pop("First Value add");
     // console.log(array);
 
-    let partOfAnArray = array.slice(2,4);
-    console.log(partOfAnArray);
+//  slice function --- for fetch some particular data from index no. to index no.
+    // let partOfAnArray = array.slice(2,4); 
+    // console.log(partOfAnArray);
+    // console.log(array);
+
+//  splice function --- Delete array data from index no. to how much index - kya index thi ketla delete krvana e
+    array.splice(2,1); // index 2 thi 1 sudhi delete krse ( 1 2 3 4 5 ), 3 delete krse
+    array.splice(2,3);
     console.log(array);
+
+// indexOf function --- array index print element kya chhe e
+// contain --- element chhe ke nhi e check krva
+
+
 
 
 
