@@ -31,6 +31,7 @@
     array.splice(2,1); // index 2 thi 1 sudhi delete krse ( 1 2 3 4 5 ), 3 delete krse
     array.splice(2,3);
     console.log(array);
+    // console.log(array);
 
 // indexOf function --- array index print element kya chhe e
 // contain --- element chhe ke nhi e check krva
