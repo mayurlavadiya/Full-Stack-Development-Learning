@@ -43,4 +43,4 @@ let obj={
     // }
 
 // console.log(obj[age]);  ---- > square bracket ma variablne hse ene replace kri nepachi value search kare
-// console.log(obj.age); -----> aa direct value search kre
+// console.log(obj.age); -----> Search direct value of age
