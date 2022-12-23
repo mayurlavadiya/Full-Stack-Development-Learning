@@ -8,3 +8,5 @@ console.log(os.networkInterfaces());
 
 // for server details - load 
 console.log(os.cpus());
+
+console.log("check details related to server")
